@@ -7,3 +7,4 @@ While this is huge progress, it still pales in significance to the levels of cov
 The purpose of this project was to investigate if there are any subconscious biases in the manner in which the two sports are reported on.  In particular, can Natural Language Processing (NLP) show any patterns in the way the two sports are reported on and the language used that may be further holding back the growth of the women's game.
 
 ## Methodology - Data Collection
+The BBC sport website was chosen as it has a large catalogue of articles and match reports on profesisonal football from both the men's and women's game.  None of it is behind a paywall and the URLs follow a numerical pattern, making it easier to scrape.
